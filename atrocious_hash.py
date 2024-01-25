@@ -12,7 +12,7 @@ data = [
 
 
 def simple_hash(s: str) -> int:
-    """A ridiculously simple hashing function"""
+    """A ridiculously simple hashing function!"""
     basic_hash = ord(s[0])
     return basic_hash % 10
 
