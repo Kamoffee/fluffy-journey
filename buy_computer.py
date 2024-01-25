@@ -56,7 +56,7 @@
 # print(computer_parts)
 
 available_parts = ["computers",
-                   "monitor",
+                   "monitors",
                    "keyboard",
                    "mouse",
                    "mouse mat",
