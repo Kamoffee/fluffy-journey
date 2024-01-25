@@ -55,7 +55,7 @@
 #
 # print(computer_parts)
 
-available_parts = ["computer",
+available_parts = ["computers",
                    "monitor",
                    "keyboard",
                    "mouse",
